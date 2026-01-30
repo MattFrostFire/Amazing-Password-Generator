@@ -5,8 +5,8 @@ This Python password generator (core math, os, string, and datetime module) has 
 ## a) Purpose of the Program:
 
   The purpose of this program is to give a user a randomly generated set of Memorable passwords and Random character passwords for personal use
-  It generates the Memorable passwords from a txt file containing the top 100000 nouns
-  1000 passwords are generated for each folder
+  It generates the Memorable passwords from a txt file containing the top 100000 nouns.
+  1000 passwords are generated for each folder.
   
 ## b) Input: 
 
